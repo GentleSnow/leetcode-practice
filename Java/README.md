@@ -1,5 +1,5 @@
-## leetcode-practice
+## LeetCode算法题代码（Java）
 
-Java
+auth: [Moriarty](https://github.com/Moriarty12138)
 
-Time: 2019-05-10
+更新中。
