@@ -1,5 +1,8 @@
 ## LeetCode算法题代码（Java）
 
-auth: [Moriarty](https://github.com/Moriarty12138)
+author: [Moriarty](https://github.com/Moriarty12138)
 
-更新中。
+不定期更新中。
+
+
+目前主要在更新Python版本。
